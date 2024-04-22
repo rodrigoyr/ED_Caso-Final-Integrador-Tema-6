@@ -1,5 +1,5 @@
 # ED_Caso-Final-Integrador-Tema-6
-
+https://github.com/rodrigoyr/ED_Caso-Final-Integrador-Tema-6.git
 ## Explicacion modulos
 A partir de aquí voy a explicar como he hecho uso del codigo de los modulos principales del programa y cuales son sus funciones, cabe destacar que hay bastantes más clases o modulos, aunque son con el fin de mejorar el programa. Aqui explico las funciones de los principales
 *Módulo IndexacionRecursiva:* ste modulo se encarga de indexar los archivos en un directorio el cual da el usuario. Utiliza la recursividad para indexar también los archivos en otros directorios. Los archivos indexados se almacenan en una lista creada  
